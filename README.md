@@ -1,7 +1,7 @@
 <!-- Renuka Shimpy - GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Renuka Shimpy</h1>
-<h3 align="center">2nd Year CSE Student | Govt Women's Polytechnic College</h3>
+<h3 align="center">2nd Year CSE Student | Govt Women's Polytechnic College, Indore</h3>
 
 ---
 
