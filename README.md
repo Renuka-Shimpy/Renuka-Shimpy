@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+---
+my name is renuka shimpy
+---
 <!--
 **Renuka-Shimpy/Renuka-Shimpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
